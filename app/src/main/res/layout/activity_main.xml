@@ -26,7 +26,7 @@
         android:id="@+id/textView2"
         android:layout_width="368dp"
         android:layout_height="wrap_content"
-        android:text="Shiva Shiva"
+        android:text="Shiva Shiva tempo hai"
         android:textColor="@color/colorPrimary"
         android:textSize="24sp"
         app:layout_constraintBottom_toBottomOf="parent"
