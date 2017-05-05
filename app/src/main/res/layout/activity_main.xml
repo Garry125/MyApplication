@@ -11,7 +11,7 @@
         android:id="@+id/textView"
         android:layout_width="368dp"
         android:layout_height="wrap_content"
-        android:text="Tarandeep Singh"
+        android:text="Tarandeep Singh Nijjar"
         android:textColor="@color/colorPrimary"
         android:textColorLink="@color/colorPrimary"
         android:textSize="24sp"
